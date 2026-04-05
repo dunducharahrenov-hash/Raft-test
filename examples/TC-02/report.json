@@ -1,0 +1,268 @@
+{
+  "generated_at": "2026-04-05T16:52:26.615438+00:00",
+  "role": "ML Engineer",
+  "provider": "github_models_inference",
+  "model": "openai/gpt-4o",
+  "market_analysis": {
+    "skill_map": {
+      "frameworks": [
+        {
+          "importance": "critical",
+          "name": "TensorFlow",
+          "trend": "growing"
+        },
+        {
+          "importance": "critical",
+          "name": "PyTorch",
+          "trend": "growing"
+        },
+        {
+          "importance": "important",
+          "name": "Scikit-learn",
+          "trend": "stable"
+        }
+      ],
+      "infrastructure": [
+        {
+          "importance": "critical",
+          "name": "AWS SageMaker",
+          "trend": "growing"
+        },
+        {
+          "importance": "important",
+          "name": "Google Cloud AI Platform",
+          "trend": "growing"
+        },
+        {
+          "importance": "nice-to-have",
+          "name": "Azure Machine Learning",
+          "trend": "stable"
+        }
+      ],
+      "languages": [
+        {
+          "importance": "critical",
+          "name": "Python",
+          "trend": "growing"
+        },
+        {
+          "importance": "important",
+          "name": "R",
+          "trend": "stable"
+        },
+        {
+          "importance": "nice-to-have",
+          "name": "Julia",
+          "trend": "growing"
+        }
+      ],
+      "soft_skills": [
+        {
+          "importance": "critical",
+          "name": "Problem-solving",
+          "trend": "growing"
+        },
+        {
+          "importance": "important",
+          "name": "Communication",
+          "trend": "stable"
+        },
+        {
+          "importance": "nice-to-have",
+          "name": "Team leadership",
+          "trend": "stable"
+        }
+      ]
+    }
+  },
+  "salary_analysis": {
+    "market_trend": "growing",
+    "market_trend_reason": "The skill map indicates a strong emphasis on growing trends in critical technologies and skills, such as TensorFlow, PyTorch, AWS SageMaker, and Python, which are highly sought after in the current job market.",
+    "salary_table": {
+      "Moscow": {
+        "Junior": {
+          "max": 120,
+          "median": 100,
+          "min": 80
+        },
+        "Lead": {
+          "max": 350,
+          "median": 300,
+          "min": 250
+        },
+        "Middle": {
+          "max": 200,
+          "median": 170,
+          "min": 140
+        },
+        "Senior": {
+          "max": 280,
+          "median": 240,
+          "min": 200
+        }
+      },
+      "Remote_USD": {
+        "Junior": {
+          "max": 2500,
+          "median": 2000,
+          "min": 1500
+        },
+        "Lead": {
+          "max": 8000,
+          "median": 7000,
+          "min": 6000
+        },
+        "Middle": {
+          "max": 5000,
+          "median": 4500,
+          "min": 4000
+        },
+        "Senior": {
+          "max": 7000,
+          "median": 6000,
+          "min": 5000
+        }
+      },
+      "Russian_Regions": {
+        "Junior": {
+          "max": 80,
+          "median": 70,
+          "min": 60
+        },
+        "Lead": {
+          "max": 250,
+          "median": 220,
+          "min": 190
+        },
+        "Middle": {
+          "max": 140,
+          "median": 120,
+          "min": 100
+        },
+        "Senior": {
+          "max": 200,
+          "median": 180,
+          "min": 160
+        }
+      }
+    },
+    "top_employers": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "NVIDIA",
+      "OpenAI"
+    ]
+  },
+  "career_advice": {
+    "gap_analysis": {
+      "long_term": [
+        {
+          "reason": "To gain expertise in a widely-used deep learning framework.",
+          "skill": "PyTorch",
+          "time_to_acquire_months": 3
+        },
+        {
+          "reason": "To develop proficiency in cloud-based machine learning services.",
+          "skill": "AWS SageMaker",
+          "time_to_acquire_months": 4
+        }
+      ],
+      "quick_wins": [
+        {
+          "reason": "To enhance foundational knowledge in machine learning.",
+          "skill": "Scikit-learn",
+          "time_to_acquire_weeks": 4
+        },
+        {
+          "reason": "To improve programming skills in a critical language.",
+          "skill": "Python",
+          "time_to_acquire_weeks": 3
+        }
+      ]
+    },
+    "learning_path": {
+      "Foundation": {
+        "duration_days": 30,
+        "milestone": "Establish foundational knowledge in machine learning and Python.",
+        "resources": [
+          {
+            "name": "Python for Data Science and Machine Learning Bootcamp",
+            "type": "course"
+          },
+          {
+            "name": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+            "type": "book"
+          }
+        ],
+        "topics": [
+          "Python programming",
+          "Machine learning basics",
+          "Scikit-learn introduction"
+        ]
+      },
+      "Portfolio": {
+        "duration_days": 30,
+        "milestone": "Develop a comprehensive project showcasing machine learning skills.",
+        "resources": [
+          {
+            "name": "Kaggle Datasets",
+            "type": "official"
+          },
+          {
+            "name": "TensorFlow Documentation",
+            "type": "documentation"
+          }
+        ],
+        "topics": [
+          "Data preprocessing",
+          "Model training and evaluation",
+          "Deployment"
+        ]
+      },
+      "Practice": {
+        "duration_days": 30,
+        "milestone": "Apply knowledge through practical exercises and advanced topics.",
+        "resources": [
+          {
+            "name": "Deep Learning Specialization by Andrew Ng",
+            "type": "course"
+          },
+          {
+            "name": "AWS SageMaker Documentation",
+            "type": "documentation"
+          }
+        ],
+        "topics": [
+          "Deep learning with PyTorch",
+          "Cloud-based machine learning",
+          "Advanced model optimization"
+        ]
+      }
+    },
+    "portfolio_project": {
+      "dataset_or_problem": "Predicting customer churn for a subscription-based service.",
+      "description": "Develop a machine learning model to predict customer churn, including data preprocessing, feature engineering, model training, and deployment.",
+      "name": "Customer Churn Prediction System",
+      "skills_demonstrated": [
+        "Data preprocessing",
+        "Model training",
+        "Model evaluation",
+        "Deployment"
+      ],
+      "technologies": [
+        "Python",
+        "Scikit-learn",
+        "TensorFlow",
+        "AWS SageMaker"
+      ]
+    }
+  },
+  "verification": {
+    "is_consistent": true,
+    "quality_reason": "The report is well-structured, with consistent alignment between skill importance, market trends, salary data, and learning paths. No contradictions or inconsistencies were identified.",
+    "quality_score": 95,
+    "warnings": []
+  },
+  "run_log_file": "run_20260405_195210_ml_engineer.log"
+}

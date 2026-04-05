@@ -1,0 +1,262 @@
+{
+  "generated_at": "2026-04-05T16:52:41.466519+00:00",
+  "role": "iOS Developer (Swift)",
+  "provider": "github_models_inference",
+  "model": "openai/gpt-4o",
+  "market_analysis": {
+    "skill_map": {
+      "frameworks": [
+        {
+          "importance": "critical",
+          "name": "UIKit",
+          "trend": "stable"
+        },
+        {
+          "importance": "important",
+          "name": "SwiftUI",
+          "trend": "growing"
+        },
+        {
+          "importance": "nice-to-have",
+          "name": "Combine",
+          "trend": "growing"
+        }
+      ],
+      "infrastructure": [
+        {
+          "importance": "critical",
+          "name": "Xcode",
+          "trend": "stable"
+        },
+        {
+          "importance": "important",
+          "name": "CocoaPods",
+          "trend": "stable"
+        },
+        {
+          "importance": "nice-to-have",
+          "name": "Fastlane",
+          "trend": "growing"
+        }
+      ],
+      "languages": [
+        {
+          "importance": "critical",
+          "name": "Swift",
+          "trend": "growing"
+        },
+        {
+          "importance": "important",
+          "name": "Objective-C",
+          "trend": "declining"
+        }
+      ],
+      "soft_skills": [
+        {
+          "importance": "important",
+          "name": "Problem-solving",
+          "trend": "stable"
+        },
+        {
+          "importance": "important",
+          "name": "Team collaboration",
+          "trend": "growing"
+        },
+        {
+          "importance": "nice-to-have",
+          "name": "Mentorship",
+          "trend": "growing"
+        }
+      ]
+    }
+  },
+  "salary_analysis": {
+    "market_trend": "growing",
+    "market_trend_reason": "The increasing demand for Swift and SwiftUI, along with the growing trends in team collaboration and mentorship, indicate a positive growth trajectory in the market.",
+    "salary_table": {
+      "Moscow": {
+        "Junior": {
+          "max": 120,
+          "median": 100,
+          "min": 80
+        },
+        "Lead": {
+          "max": 350,
+          "median": 300,
+          "min": 250
+        },
+        "Middle": {
+          "max": 200,
+          "median": 170,
+          "min": 140
+        },
+        "Senior": {
+          "max": 280,
+          "median": 240,
+          "min": 200
+        }
+      },
+      "Remote_USD": {
+        "Junior": {
+          "max": 2500,
+          "median": 2000,
+          "min": 1500
+        },
+        "Lead": {
+          "max": 7000,
+          "median": 6000,
+          "min": 5000
+        },
+        "Middle": {
+          "max": 4000,
+          "median": 3500,
+          "min": 3000
+        },
+        "Senior": {
+          "max": 5500,
+          "median": 5000,
+          "min": 4500
+        }
+      },
+      "Russian_Regions": {
+        "Junior": {
+          "max": 80,
+          "median": 65,
+          "min": 50
+        },
+        "Lead": {
+          "max": 250,
+          "median": 200,
+          "min": 150
+        },
+        "Middle": {
+          "max": 140,
+          "median": 120,
+          "min": 100
+        },
+        "Senior": {
+          "max": 200,
+          "median": 170,
+          "min": 140
+        }
+      }
+    },
+    "top_employers": [
+      "Yandex",
+      "Sberbank",
+      "Tinkoff",
+      "Mail.ru Group",
+      "EPAM Systems"
+    ]
+  },
+  "career_advice": {
+    "gap_analysis": {
+      "long_term": [
+        {
+          "reason": "To enhance expertise in modern declarative UI frameworks.",
+          "skill": "SwiftUI",
+          "time_to_acquire_months": 3
+        },
+        {
+          "reason": "To streamline development workflows and improve CI/CD processes.",
+          "skill": "Fastlane",
+          "time_to_acquire_months": 4
+        }
+      ],
+      "quick_wins": [
+        {
+          "reason": "To strengthen foundational skills in the primary programming language.",
+          "skill": "Swift",
+          "time_to_acquire_weeks": 4
+        },
+        {
+          "reason": "To improve collaboration and communication within teams.",
+          "skill": "Team collaboration",
+          "time_to_acquire_weeks": 3
+        }
+      ]
+    },
+    "learning_path": {
+      "Foundation": {
+        "duration_days": 30,
+        "milestone": "Establish a strong foundation in essential skills.",
+        "resources": [
+          {
+            "name": "Swift Programming: The Big Nerd Ranch Guide",
+            "type": "book"
+          },
+          {
+            "name": "UIKit Fundamentals by Ray Wenderlich",
+            "type": "course"
+          }
+        ],
+        "topics": [
+          "Swift basics",
+          "UIKit fundamentals"
+        ]
+      },
+      "Portfolio": {
+        "duration_days": 30,
+        "milestone": "Develop a comprehensive project showcasing skills.",
+        "resources": [
+          {
+            "name": "SwiftUI Tutorials by Apple",
+            "type": "official"
+          },
+          {
+            "name": "Combine Framework Documentation",
+            "type": "documentation"
+          }
+        ],
+        "topics": [
+          "SwiftUI advanced features",
+          "Combine framework"
+        ]
+      },
+      "Practice": {
+        "duration_days": 30,
+        "milestone": "Apply skills through practical exercises and small projects.",
+        "resources": [
+          {
+            "name": "100 Days of Swift by Hacking with Swift",
+            "type": "course"
+          },
+          {
+            "name": "CocoaPods Guides and Tutorials",
+            "type": "documentation"
+          }
+        ],
+        "topics": [
+          "Swift intermediate concepts",
+          "Dependency management with CocoaPods"
+        ]
+      }
+    },
+    "portfolio_project": {
+      "dataset_or_problem": "A task management application with real-time updates.",
+      "description": "Develop a task management app that allows users to create, update, and delete tasks, with real-time synchronization across devices.",
+      "name": "TaskSync",
+      "skills_demonstrated": [
+        "Swift",
+        "SwiftUI",
+        "Combine",
+        "Xcode",
+        "CocoaPods"
+      ],
+      "technologies": [
+        "Swift",
+        "SwiftUI",
+        "Combine",
+        "Xcode",
+        "CocoaPods"
+      ]
+    }
+  },
+  "verification": {
+    "is_consistent": true,
+    "quality_reason": "The report is consistent and well-structured, with no contradictions or discrepancies identified. The salary progression aligns with skill levels, and the learning path prioritizes growing and critical skills.",
+    "quality_score": 95,
+    "warnings": []
+  },
+  "run_log_file": "run_20260405_195226_ios_developer_swift.log"
+}

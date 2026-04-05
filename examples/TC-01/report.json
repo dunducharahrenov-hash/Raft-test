@@ -1,0 +1,263 @@
+{
+  "generated_at": "2026-04-05T16:52:10.490280+00:00",
+  "role": "Backend Python Developer",
+  "provider": "github_models_inference",
+  "model": "openai/gpt-4o",
+  "market_analysis": {
+    "skill_map": {
+      "frameworks": [
+        {
+          "importance": "critical",
+          "name": "Django",
+          "trend": "growing"
+        },
+        {
+          "importance": "important",
+          "name": "Flask",
+          "trend": "stable"
+        },
+        {
+          "importance": "nice-to-have",
+          "name": "FastAPI",
+          "trend": "growing"
+        }
+      ],
+      "infrastructure": [
+        {
+          "importance": "critical",
+          "name": "Docker",
+          "trend": "growing"
+        },
+        {
+          "importance": "important",
+          "name": "Kubernetes",
+          "trend": "growing"
+        },
+        {
+          "importance": "nice-to-have",
+          "name": "AWS Lambda",
+          "trend": "growing"
+        }
+      ],
+      "languages": [
+        {
+          "importance": "critical",
+          "name": "Python",
+          "trend": "growing"
+        },
+        {
+          "importance": "important",
+          "name": "SQL",
+          "trend": "stable"
+        },
+        {
+          "importance": "nice-to-have",
+          "name": "JavaScript",
+          "trend": "stable"
+        }
+      ],
+      "soft_skills": [
+        {
+          "importance": "critical",
+          "name": "Problem-solving",
+          "trend": "growing"
+        },
+        {
+          "importance": "important",
+          "name": "Team collaboration",
+          "trend": "growing"
+        },
+        {
+          "importance": "nice-to-have",
+          "name": "Time management",
+          "trend": "stable"
+        }
+      ]
+    }
+  },
+  "salary_analysis": {
+    "market_trend": "growing",
+    "market_trend_reason": "The demand for skills such as Python, Django, and Docker is increasing, indicating a growing trend in the market.",
+    "salary_table": {
+      "Moscow": {
+        "Junior": {
+          "max": 120,
+          "median": 100,
+          "min": 80
+        },
+        "Lead": {
+          "max": 300,
+          "median": 260,
+          "min": 220
+        },
+        "Middle": {
+          "max": 180,
+          "median": 150,
+          "min": 120
+        },
+        "Senior": {
+          "max": 240,
+          "median": 200,
+          "min": 160
+        }
+      },
+      "Remote_USD": {
+        "Junior": {
+          "max": 2500,
+          "median": 2000,
+          "min": 1500
+        },
+        "Lead": {
+          "max": 7000,
+          "median": 6000,
+          "min": 5000
+        },
+        "Middle": {
+          "max": 4000,
+          "median": 3500,
+          "min": 3000
+        },
+        "Senior": {
+          "max": 5500,
+          "median": 5000,
+          "min": 4500
+        }
+      },
+      "Russian_Regions": {
+        "Junior": {
+          "max": 80,
+          "median": 70,
+          "min": 60
+        },
+        "Lead": {
+          "max": 200,
+          "median": 180,
+          "min": 160
+        },
+        "Middle": {
+          "max": 120,
+          "median": 100,
+          "min": 80
+        },
+        "Senior": {
+          "max": 160,
+          "median": 140,
+          "min": 120
+        }
+      }
+    },
+    "top_employers": [
+      "Yandex",
+      "Sberbank",
+      "Tinkoff",
+      "Mail.ru Group",
+      "EPAM Systems"
+    ]
+  },
+  "career_advice": {
+    "gap_analysis": {
+      "long_term": [
+        {
+          "reason": "To enhance backend development capabilities with a modern framework.",
+          "skill": "Django",
+          "time_to_acquire_months": 3
+        },
+        {
+          "reason": "To improve deployment and scaling skills for containerized applications.",
+          "skill": "Kubernetes",
+          "time_to_acquire_months": 4
+        }
+      ],
+      "quick_wins": [
+        {
+          "reason": "To strengthen foundational programming skills.",
+          "skill": "Python",
+          "time_to_acquire_weeks": 3
+        },
+        {
+          "reason": "To gain basic understanding of containerization.",
+          "skill": "Docker",
+          "time_to_acquire_weeks": 4
+        }
+      ]
+    },
+    "learning_path": {
+      "Foundation": {
+        "duration_days": 30,
+        "milestone": "Establish a strong foundation in Python and Docker.",
+        "resources": [
+          {
+            "name": "Python Crash Course by Eric Matthes",
+            "type": "book"
+          },
+          {
+            "name": "Docker for Beginners by Docker Inc.",
+            "type": "course"
+          }
+        ],
+        "topics": [
+          "Python basics",
+          "Docker fundamentals"
+        ]
+      },
+      "Portfolio": {
+        "duration_days": 30,
+        "milestone": "Develop a comprehensive project showcasing skills.",
+        "resources": [
+          {
+            "name": "Django Documentation",
+            "type": "documentation"
+          },
+          {
+            "name": "Full Stack Python Guide",
+            "type": "book"
+          }
+        ],
+        "topics": [
+          "Django framework",
+          "Backend development"
+        ]
+      },
+      "Practice": {
+        "duration_days": 30,
+        "milestone": "Apply skills through practical exercises and small projects.",
+        "resources": [
+          {
+            "name": "LeetCode Python Challenges",
+            "type": "course"
+          },
+          {
+            "name": "Docker Hands-On Labs",
+            "type": "course"
+          }
+        ],
+        "topics": [
+          "Python problem-solving",
+          "Docker containerization"
+        ]
+      }
+    },
+    "portfolio_project": {
+      "dataset_or_problem": "A dataset of e-commerce transactions.",
+      "description": "Develop a web application for managing and analyzing e-commerce transactions.",
+      "name": "E-Commerce Transaction Manager",
+      "skills_demonstrated": [
+        "Python",
+        "Django",
+        "Docker"
+      ],
+      "technologies": [
+        "Python",
+        "Django",
+        "Docker"
+      ]
+    }
+  },
+  "verification": {
+    "is_consistent": true,
+    "quality_reason": "The report is consistent and well-structured, with clear alignment between skill importance, salary levels, and learning paths. No contradictions or major issues were identified.",
+    "quality_score": 95,
+    "warnings": []
+  },
+  "run_log_file": "run_20260405_195128_backend_python_developer.log"
+}
